@@ -1,7 +1,7 @@
 # mcPHASES-RL: Offline RL for Personalized Menstrual Health
 
 **Final Project for CS 238 – Decision Making Under Uncertainty**  
-**Authors:** Riya Narain, [Author 2 Name], [Author 3 Name]  
+**Authors:** Brooke Ballhaus, Nora Menon, Riya Narain  
 
 Offline reinforcement learning experiments for personalized menstrual health recommendations, built on the mcPHASES longitudinal wearable/self-report dataset.  
 
