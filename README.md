@@ -37,7 +37,7 @@ The workflow includes:
 Expected CSV files include: hormones/self-report, sleep, stress_score, heart_rate_variability_details, exercise, active_minutes, computed_temperature (or wrist_temperature), resting_heart_rate.  
 
 The preprocessing pipeline:  
-- Encodes Likert-style symptom scales, menstrual phases, and flow volume  
+- Encodes symptom scales, menstrual phases, and flow volume  
 - Merges biometrics with daily self-report data  
 - Computes symptom cost trends and history features  
 - Infers joint treatment actions across 24 discrete options (3 exercise intensities × sleep/stress/nutrition binary toggles)  
