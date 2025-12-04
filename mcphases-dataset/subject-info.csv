@@ -1,0 +1,43 @@
+id,birth_year,gender,ethnicity,education,sexually_active,self_report_menstrual_health_literacy,age_of_first_menarche
+1,1999,Woman,White,"Some university/ post-secondary, no degree",Yes,,14
+2,1995,Woman,East Asian,"Bachelor's degree (e.g. BA, BS)",Yes,High,13
+3,2000,Woman,East Asian,"Bachelor's degree (e.g. BA, BS)",No,High,12
+4,2000,Woman,South Asian,Doctorate or professional degree,No,Medium,12
+6,1997,Woman,East Asian,Doctorate or professional degree,Yes,Low,13
+7,2001,Gender Fluid,East Asian,"Some university/ post-secondary, no degree",Yes,Medium,10
+8,2000,Woman,White,High school degree or equivalent (e.g. GED),Yes,High,10
+9,2004,Woman,White,"Some university/ post-secondary, no degree",No,Medium,13
+10,2002,Other,White,"Some university/ post-secondary, no degree",No,High,11
+11,2003,Non-binary,East Asian,High school degree or equivalent (e.g. GED),No,Medium,12
+12,1999,Woman,East Asian,"Bachelor's degree (e.g. BA, BS)",Yes,Medium,13
+13,2003,Woman,White,"Some university/ post-secondary, no degree",Yes,Medium,12
+14,2003,Woman,Southeast Asian,"Some university/ post-secondary, no degree",Yes,Medium,12
+15,2001,Woman,East Asian,"Bachelor's degree (e.g. BA, BS)",No,Low,12
+16,1999,Woman,East Asian,Doctorate or professional degree,Prefer not to say,Medium,12
+18,2004,Prefer not to say,Middle Eastern,"Some university/ post-secondary, no degree",Yes,High,12
+19,2000,Woman,Southeast Asian,High school degree or equivalent (e.g. GED),Yes,Medium,12
+20,2001,Woman,Southeast Asian,"Bachelor's degree (e.g. BA, BS)",No,High,10
+22,2002,Woman,Southeast Asian,"Some university/ post-secondary, no degree",No,High,10
+23,2003,Woman,African,"Some university/ post-secondary, no degree",Prefer not to say,Low,12
+24,1993,Woman,Middle Eastern,"Master's degree (e.g. MA, MS, MEd)",No,Medium,12
+26,2002,Woman,Southeast Asian,"Some university/ post-secondary, no degree",No,Expert,11
+27,1997,Woman,Southeast Asian,"Bachelor's degree (e.g. BA, BS)",Prefer not to say,Medium,12
+29,1998,Woman,White,"Master's degree (e.g. MA, MS, MEd)",Yes,Medium,12
+30,2004,Woman,East Asian,"Some university/ post-secondary, no degree",No,High,10
+32,2004,Woman,East Asian,High school degree or equivalent (e.g. GED),No,Medium,13
+33,2003,Woman,White,"Some university/ post-secondary, no degree",No,Medium,12
+34,2001,Woman,Southeast Asian,"Some university/ post-secondary, no degree",No,Medium,15
+37,2004,Woman,White,"Some university/ post-secondary, no degree",No,Medium,12
+38,2004,Woman,White,"Bachelor's degree (e.g. BA, BS)",Yes,Medium,11
+39,2003,Non-binary,Middle Eastern,"Some university/ post-secondary, no degree",No,High,11
+40,2004,Woman,Southeast Asian,High school degree or equivalent (e.g. GED),No,Medium,12
+41,1999,Woman,Latina,"Bachelor's degree (e.g. BA, BS)",No,Medium,13
+42,2004,Woman,Middle Eastern,"Some university/ post-secondary, no degree",No,High,14
+43,1997,Woman,East Asian,"Bachelor's degree (e.g. BA, BS)",No,Low,11
+44,1999,Woman,Middle Eastern,"Bachelor's degree (e.g. BA, BS)",No,Medium,12
+45,2002,Woman,Caribbean,"Some university/ post-secondary, no degree",No,Medium,11
+46,2004,Woman,Southeast Asian,"Some university/ post-secondary, no degree",No,Medium,12
+47,2002,Woman,Southeast Asian,"Some university/ post-secondary, no degree",Yes,High,11
+48,2003,Woman,East Asian,"Some university/ post-secondary, no degree",Yes,High,14
+49,2000,Woman,East Asian,High school degree or equivalent (e.g. GED),Yes,Non-existent,12
+50,2004,Woman,East Asian,"Some university/ post-secondary, no degree",No,Medium,11
